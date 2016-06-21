@@ -31,6 +31,7 @@ Here's a walkthrough of implemented user stories:
 ![Video Walkthrough](https://github.com/BallsSqueezer/tipCalculator/blob/master/Tip%20Calculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Custom buttons and icons downloaded from [Icons8](https://icons8.com)
 
 ## Notes
 
