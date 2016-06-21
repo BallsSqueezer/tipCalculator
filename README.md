@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Customize tint color and button to make the app more attractive
-- [x] Automatically split the total amount depending on the number of people (eg. If there are 4 people and total amount is $120, each will have to pay $30)
+- [x] Customize tint color and button to make the app more attractive.
+- [x] Automatically split the total amount depending on the number of people (eg. If there are 4 people and total amount is $120, each will have to pay $30).
 
 ## Video Walkthrough 
 
@@ -30,7 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 ![Video Walkthrough](https://github.com/BallsSqueezer/tipCalculator/blob/master/Tip%20Calculator.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://www.cockos.com/licecap/)
+
 Custom buttons and icons downloaded from [Icons8](https://icons8.com)
 
 ## Notes
